@@ -1,0 +1,14 @@
+title: John-Paul Dickie
+
+author: John-Paul Dickie
+
+permalink: /blog/:title/
+lang: en_GB
+
+
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
+  - jekyll-seo-tag

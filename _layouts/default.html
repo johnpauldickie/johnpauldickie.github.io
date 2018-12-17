@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+   {% if page.title %}
+  <title>{{ page.title }} - John-Paul Dickie</title>
+  {% else %}
+  <title>John-Paul Dickie</title>
+  {% endif %}
+   
+   <link rel="shortcut icon" href="{{ "/assets/img/jp.png" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}" />
+   
+   <link href="{{ "/assets/css/style.css" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}" rel="stylesheet">
+   
+     </head>
+  <body>
+	 
+	  <div class="container">
+   <div class="row">
+	<div class="col maxwidth">
+		
+    {{ content }}
+		
+	<hr>			  
+<div>
+				   <footer>
+      <p class="float-right"></p>
+        <p><a href="{{ site.url }}">John-Paul Dickie</a></p>
+      </footer>
+</div>
+	   </div>
+		  </div>
+	  </div>
+</body>
+</html>

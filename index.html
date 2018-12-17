@@ -1,0 +1,34 @@
+---
+layout: default
+---
+		<div class="row">
+			<div class="col-md-3">
+			<img src="assets/img/jp.png"  class="img-fluid rounded" />
+			</div>
+			  <div class="col-md-9">
+				    <h1 class="display-3">John-Paul Dickie</h1>
+  <ul class="list-unstyled">
+	  <li> <p class="lead">Junior Content Designer, <a href="https://gov.uk" target="_blank">GOV.UK</a>  at the <a href="https://gds.blog.gov.uk/about" target="_blank">Government Digital Service</a>.</p></li>
+       <li> <p>Studied Journalism the <a href="http://www.lincoln.ac.uk" target="_blank">University of Lincoln</a>.</p></li>
+  </ul>
+			  </div>
+				  		  </div>
+			  
+  <hr class="my-4">
+  
+				<h3><i class="fab fa-fw fa-medium-m"></i> Posts</h3>
+				<ul class="list-unstyled">
+{% for post in site.posts limit:5 %}
+
+<li><p class="lead"><a href="{{ post.url }}">{{ post.title }}</a> <br><small><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date_to_string }}</small></p></li>
+
+ {% endfor %}</ul>
+<p><a href="/blog" class="btn btn btn-outline-secondary btn-sm">Read more posts</a></p>
+
+				  <div class="my-4">
+				  <h2>Contact</h2>
+ <p>You can follow me on <a href="https://twitter.com/johnpauldickie" target="_blank" class="text-primary">Twitter</a> or connect with me on <a href="https://uk.linkedin.com/in/johnpauldickie" target="_blank" class="text-info">LinkedIn</a>. You can also contact me via <a href="mailto:jp@johnpauld.co.uk" class="text-secondary">email</a>.</p>
+				  </div>
+
+
+			
