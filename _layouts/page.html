@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+   {% if page.title %}
+  <title>{{ page.title }} - John-Paul Dickie</title>
+  {% else %}
+  <title>John-Paul Dickie</title>
+  {% endif %}
+
+   <link rel="shortcut icon" href="{{ "/assets/img/jp.png" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}" />
+
+   <link href="{{ "/assets/css/style.css" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}" rel="stylesheet">
+
+     </head>
+  <body>
+
+	  <div class="container">
+   <div class="row">
+	<div class="col maxwidth">
+    <nav class="navbar navbar-light bg-light">
+  <span class="navbar-brand mb-0 h1">John-Paul Dickie</span>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="/">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/blog">Blog</a>
+      </li>
+</nav>
+
+    {{ content }}
+
+	<hr>
+<div>
+				   <footer>
+      <p class="float-right"></p>
+        <p><a href="{{ site.url }}">John-Paul Dickie</a></p>
+      </footer>
+</div>
+	   </div>
+		  </div>
+	  </div>
+</body>
+</html>
