@@ -9,16 +9,12 @@ tags: [GDS, Content design, ConCon]
   Attended some meetups, juggled training across the country, oh, and organised one big cross-government content conference — it’s only been 37 days since this journey started.
 </p>
 
-<<<<<<< HEAD
 ![](https://cdn-images-1.medium.com/max/800/1*PxnPGHUQn7NmZLEb8fjvNQ.jpeg){:class="img-fluid"}
-=======
-![](https://cdn-images-1.medium.com/max/600/1*PxnPGHUQn7NmZLEb8fjvNQ.jpeg)
->>>>>>> 7867b01aa09c3356b715c8f482ca97a72dd839e7
-<span class="figcaption_hack">Picture: Laura Billings
-([Twitter](https://twitter.com/laurabillings/status/918057683873357824))</span>
 
-I
-[joined](https://medium.com/@johnpauldickie/on-the-move-joining-gds-e382bc3cc82c)
+<small>Picture: Laura Billings
+([Twitter](https://twitter.com/laurabillings/status/918057683873357824))<small>
+
+I [joined](https://medium.com/@johnpauldickie/on-the-move-joining-gds-e382bc3cc82c)
 the [Government Digital Service (GDS)](http://gov.uk/gds) just over one month
 ago. I’m sort of trying to still figure out how a) it’s already been a month, b)
 how much has happened in that space of time. 5 September feels like a long time
