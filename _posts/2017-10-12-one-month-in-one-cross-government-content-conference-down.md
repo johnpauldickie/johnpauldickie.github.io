@@ -27,8 +27,6 @@ community, aptly named the ‘content community team’ based in the GOV.UK team
 
 Safe to say, it’s been a pretty amazing start.
 
-*****
-
 ### Communities are hugely important — not just to network, but to learn and be inspired by others
 
 One of the best ways to understand a different community in government is to
@@ -94,8 +92,6 @@ attending the conference. The people make the community what it is.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I second that - fab day full of great talks and workshops. And to top it off guest speaker <a href="https://twitter.com/boagworld?ref_src=twsrc%5Etfw">@boagworld</a> What more could you ask for? 👌</p>&mdash; Sue Spevack (@SuepremeDesign) <a href="https://twitter.com/SuepremeDesign/status/918170860040675328?ref_src=twsrc%5Etfw">October 11, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-*****
 
 ### There’s always more to learn, always someone to be trained.
 
