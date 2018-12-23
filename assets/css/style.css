@@ -1,7 +1,7 @@
 @import url(//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css);
 
 body {
-		border-top: 10px solid #ffbf47
+		border-top: 10px dashed #ffbf47
 	}
 
 .home{
@@ -25,6 +25,8 @@ body {
 .medium #feedoffset p {
 	color: #000000;
 }
+
+/* share-box only used with 'page' and on 'post' templates */
 
 .share-box a {
   display: inline-block;
