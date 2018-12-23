@@ -10,7 +10,5 @@
 
   ],
   "stack": "heroku-18",
-  "buildpacks": [
-
-  ]
+ "buildpacks": [ { "url": "heroku/ruby" } ],
 }
