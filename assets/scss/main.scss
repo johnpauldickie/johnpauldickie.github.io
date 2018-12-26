@@ -169,7 +169,8 @@ body, html{
     color: $title-color !important;
     text-decoration: none;
     &:hover {
-      color: #0037F5 !important;
+      color: #0056b3 !important;
+      text-decoration: underline !important;
     }
   }
 
@@ -195,6 +196,7 @@ body, html{
     line-height: 1.2em;
     font-size: 32px;
     margin-top: 30px;
+    text-decoration: underline;
   }
 
   .trigger {
@@ -232,7 +234,7 @@ body, html{
 }
 
 a {
-  text-decoration: underline;
+text-decoration: none;
 }
 
 p {
@@ -262,7 +264,7 @@ li+li {
 }
 
 a {
-  color: #0085bd !important;
+  color: #007bff !important;
 }
 
 footer {
