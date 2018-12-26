@@ -5,6 +5,8 @@ author: John-Paul Dickie
 permalink: /blog/:title/
 lang: en_GB
 
+theme: minima
+show_excerpts: true
 
 gems:
   - jekyll-feed
@@ -12,3 +14,9 @@ gems:
   - jekyll-redirect-from
   - jemoji
   - jekyll-seo-tag
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+twitter_username: johnpauldickie
