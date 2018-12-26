@@ -5,6 +5,7 @@ author: John-Paul Dickie
 permalink: /blog/:title/
 lang: en_GB
 
+theme: minima
 
 gems:
   - jekyll-feed
