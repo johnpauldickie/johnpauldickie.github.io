@@ -8,7 +8,7 @@ tags: [GDS, Content design, ConCon]
 <p class="lead">
   Attended some meetups, juggled training across the country, oh, and organised one big cross-government content conference — it’s only been 37 days since this journey started.
 </p>
-
+<!--more-->
 ![](https://cdn-images-1.medium.com/max/800/1*PxnPGHUQn7NmZLEb8fjvNQ.jpeg){:class="img-fluid"}
 
 <small>Picture: Laura Billings
