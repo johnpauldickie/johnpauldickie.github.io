@@ -7,6 +7,7 @@ lang: en_GB
 
 theme: minima
 show_excerpts: true
+excerpt_separator: <!--more-->
 
 gems:
   - jekyll-feed
