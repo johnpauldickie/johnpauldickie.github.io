@@ -10,7 +10,7 @@ A team was assembled of policy experts, communications colleagues along with you
 
 This was something quite new to me. I’ve worked at [GDS](https://www.gov.uk/gds) for well over a year now but I’ve only been a junior content designer for about five months and worked in team made up of mainly content designers.
 
-### Day one 🌇
+## Day one 🌇
 
 I wasn’t really sure what I was expecting. I knew I’d be with four other content designers (later two others), the work was somewhat fast paced so we had to be quick with our decisions yet be able to explain why we did something a certain way.
 
@@ -20,7 +20,7 @@ That involved tweaking, adjusting or rewriting to make it as plain English as po
 
 It was quite refreshing working together with policy colleagues in the same place trying to tackle the same issue. Something it’ll do more of in future pieces of work.
 
-### Iteration is key 🔑
+## Iteration is key 🔑
 
 During the first sprint, we knew the content in our tool wasn’t the best or even perfect, we knew it could be better.
 
@@ -32,7 +32,7 @@ It was good to get the chance to observe two days of user research to then itera
 
 Our second round of user research a couple of weeks later shown the changes we’d made in between had made a difference in users understanding what they were being asked.
 
-### The ‘what’ and ‘why’ 🤔
+## The ‘what’ and ‘why’ 🤔
 
 Typically as a content designer working on ‘business as usual’, we get the bulk of our information to do a piece of work, like updating a piece of content, through a ticket including the user needs, the changes and any additional information.
 
@@ -42,7 +42,7 @@ Including ‘what’ and ‘why’ didn’t just help the person on the team pic
 
 I’ll be sure to use this method again.
 
-### Sit back and reflect ✍
+## Sit back and reflect ✍
 
 Over the past few days, I’ve had time to reflect and review the past few weeks.
 
