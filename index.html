@@ -1,25 +1,20 @@
 ---
-layout: page
+layout: default
 title: Home
 ---
 		<div class="row">
-			<div class="col-md-3">
-			<img src="assets/img/jp.png"  class="img-fluid rounded" />
-			</div>
 			  <div class="col-md-9">
-				    <h1 class="display-3">John-Paul Dickie</h1>
-  <ul class="list-unstyled">
-	  <li> <p class="lead">Junior Content Designer, <a href="https://gov.uk" target="_blank">GOV.UK</a>  at the <a href="https://gds.blog.gov.uk/about" target="_blank">Government Digital Service</a>.</p></li>
-       <li> <p>Studied Journalism the <a href="http://www.lincoln.ac.uk" target="_blank">University of Lincoln</a>.</p></li>
-  </ul>
+					<div class="jumbotron">
+					  <h1 class="display-4">Hi, I'm John-Paul.</h1>
+						<p class="lead">I'm a junior content designer working at the <a href="https://www.gov.uk/gds" target="_blank">Government Digital Service</a> on <a href="https://www.gov.uk" target="_blank">GOV.UK</a>.</p>
+					</div>
+
 			  </div>
 				  		  </div>
 
-  <hr class="my-4">
-
-				<h3><i class="fab fa-fw fa-medium-m"></i> Posts</h3>
+				<h3><i class="fab fa-fw fa-medium-m"></i> Recent posts</h3>
 				<ul class="list-unstyled">
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:3 %}
 
 <li><p class="lead"><a href="{{ post.url }}">{{ post.title }}</a> <small class="text-muted"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date_to_long_string }}</small></p></li>
 
