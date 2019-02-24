@@ -4,7 +4,7 @@ title: Looking back at JiscCAN17
 tags: [Jisc, Student Engagement]
 ---
 
-Partnership is very much alive and well in further and higher education.{:class="lead"}
+Partnership is very much alive and well in further and higher education.
 <!--more-->
 <span class="figcaption_hack">Video of the
 [keynote](https://can.jiscinvolve.org/wp/files/2016/06/University-of-Lincoln-Keynote.pdf),
