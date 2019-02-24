@@ -9,6 +9,10 @@ body {
 		padding: 30px;
 	}
 
+.main {
+	margin-top: 20px;
+}
+
 .page {
 	padding: 30px;
 	padding-top: 60px;
