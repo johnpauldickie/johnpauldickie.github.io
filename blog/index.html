@@ -8,9 +8,9 @@ title: Blog
 <ul class="list-unstyled">
    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
      <header class="post-header">
-       <p class="lead" itemprop="name headline"><a href="{{ page.url }}">{{ page.title | escape }}</a></h3>
+       <h3 itemprop="name headline"><a href="{{ page.url }}">{{ page.title | escape }}</a></h3>
      </header>
-     <p> <small><time class="date" datetime="{{ page.date | date_to_long_string }}">{{ page.date | date_to_long_string }}</time></small></p>
+     <p><time class="date" datetime="{{ page.date | date_to_long_string }}">{{ page.date | date_to_long_string }}</time></p>
    </article>
    </ul>
  {% endfor %}
