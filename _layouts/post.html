@@ -11,6 +11,11 @@ layout: default
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         {{ page.date | date: date_format }}
       </time>
+      <span class="badge badge-light">
+          {% if page.tags.size > 0 %}
+            Tags: {{ page.tags | join: ', ' }} &nbsp; | &nbsp;
+          {% endif %}
+        </span>
   </header>
 
   <div class="post-content" itemprop="articleBody">
@@ -20,11 +25,7 @@ layout: default
 
   </div>
 
-  <p class="extra-info">
-    {% if page.tags.size > 0 %}
-      Tags: {{ page.tags | join: ', ' }} &nbsp; | &nbsp;
-    {% endif %}
-  </p>
+
 </article>
 </div>
 </div>
