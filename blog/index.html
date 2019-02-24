@@ -3,8 +3,6 @@ layout: default
 title: Blog
 ---
 
-
-  {% for page in paginator.posts %}
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline"><a href="{{ page.url }}">{{ page.title | escape }}</a></h2>
