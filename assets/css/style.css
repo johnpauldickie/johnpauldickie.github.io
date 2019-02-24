@@ -31,6 +31,10 @@ main {
 	color: #000000;
 }
 
+.footer {
+  background-color: #f5f5f5;
+}
+
 /* share-box only used with 'page' and on 'post' templates */
 
 .share-box a {
