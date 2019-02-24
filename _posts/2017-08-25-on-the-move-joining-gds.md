@@ -5,7 +5,7 @@ categories: [Work]
 tags: [GDS]
 ---
 
-{:.lead}After a short time working in higher education student voice, it’s time to move on to my next adventure.
+After a short time working in higher education student voice, it’s time to move on to my next adventure.{:class="lead"}
 <!--more-->
 It’s been quite a whirlwind 12 months; [graduating from my
 degree](https://twitter.com/johnpauldickie/status/773568328497528832) at the

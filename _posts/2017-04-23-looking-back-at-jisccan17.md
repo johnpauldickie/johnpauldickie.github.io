@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Looking back at #JiscCAN17
+title: Looking back at JiscCAN17
 tags: [Jisc, Student Engagement]
 ---
 
-{:.lead}Partnership is very much alive and well in further and higher education.
+Partnership is very much alive and well in further and higher education.{:class="lead"}
 <!--more-->
 <span class="figcaption_hack">Video of the
 [keynote](https://can.jiscinvolve.org/wp/files/2016/06/University-of-Lincoln-Keynote.pdf),
@@ -53,7 +53,7 @@ who have responsibility in a particular area for quality matters so staff have
 one student contact to discuss changes to programmes or surveys as well as sit
 on Academic Offences panels for students in other departments.
 
-![](https://cdn-images-1.medium.com/max/1200/1*dZtjMcf0f2GHTtYl_qRmwg.png){:class="img-flud"}
+![](https://cdn-images-1.medium.com/max/1200/1*dZtjMcf0f2GHTtYl_qRmwg.png){:class="img-fluid"}
 Student-staff partnership boards take place within the College of Life and
 Environmental Sciences at the University of Exeter, where the college is based
 across three different campuses, therefore typical feedback and partnership work
