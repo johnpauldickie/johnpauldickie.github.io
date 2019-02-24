@@ -8,17 +8,16 @@ layout: page
   {% include head.html %}
 
   <body>
-
+<div class="container">
     {% include header.html %}
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+    <main role="main">
+      {{ content }}
+
     </main>
 
     {% include footer.html %}
-
+</div>
   </body>
 
 </html>
