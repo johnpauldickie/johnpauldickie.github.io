@@ -6,10 +6,15 @@ tags: [Jisc, Student Engagement]
 
 <p class="lead">Partnership is very much alive and well in further and higher education.</p>
 <!--more-->
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/sFbDzA55ROI" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <span class="figcaption_hack">Video of the
 [keynote](https://can.jiscinvolve.org/wp/files/2016/06/University-of-Lincoln-Keynote.pdf),
 *The University of Lincoln: A Research-Engaged and Collaborative Community, with
-Dr Karin Crawford. (*[YouTube](https://www.youtube.com/watch?v=sFbDzA55ROI)*)*</span>
+Dr Karin Crawford.* ([YouTube](https://www.youtube.com/watch?v=sFbDzA55ROI))</span>
 
 Last year, I was first introduced to the [Change Agents
 Network](https://can.jiscinvolve.org/wp/) at Jisc as a student and volunteer SU
@@ -17,8 +22,7 @@ officer when the [University of Lincoln](http://edeu.lincoln.ac.uk/event/jisc/)
 hosted it’s annual meet-up. I was asked to co-present the keynote at the start
 of the conference on [‘The University of Lincoln: a research-engaged and
 collaborative
-community’](https://can.jiscinvolve.org/wp/files/2016/06/University-of-Lincoln-Keynote.pdf)*
-*with Dr Karin Crawford, the Director of the Educational Development and
+community’](https://can.jiscinvolve.org/wp/files/2016/06/University-of-Lincoln-Keynote.pdf) with Dr Karin Crawford, the Director of the Educational Development and
 Enhancement Unit, Lincoln’s former learning and teaching unit, following our own
 experiences of the student as producer ethos.
 
