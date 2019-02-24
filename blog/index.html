@@ -8,7 +8,7 @@ title: Blog
      <header class="post-header">
        <h2 class="post-title" itemprop="name headline"><a href="{{ page.url }}">{{ page.title | escape }}</a></h2>
        <p class="post-meta">
-          <time class="date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+          <time class="date" datetime="{{ page.date | date_to_long_string }}">{{ page.date | date_to_long_string }}</time>
      </header>
 
 
