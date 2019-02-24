@@ -5,7 +5,6 @@ author: John-Paul Dickie
 permalink: /blog/:title/
 lang: en_GB
 
-theme: minima
 show_excerpts: true
 excerpt_separator: <!--more-->
 
