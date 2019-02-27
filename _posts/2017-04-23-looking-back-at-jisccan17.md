@@ -12,10 +12,10 @@ image: https://cdn-images-1.medium.com/max/1200/1*AV8qh1rJAaRJ3S92cysO3w.png
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/sFbDzA55ROI" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<span class="figcaption_hack">Video of the
+<small>Video of the
 [keynote](https://can.jiscinvolve.org/wp/files/2016/06/University-of-Lincoln-Keynote.pdf),
 *The University of Lincoln: A Research-Engaged and Collaborative Community, with
-Dr Karin Crawford.* ([YouTube](https://www.youtube.com/watch?v=sFbDzA55ROI))</span>
+Dr Karin Crawford.* ([YouTube](https://www.youtube.com/watch?v=sFbDzA55ROI))</small>
 
 Last year, I was first introduced to the [Change Agents
 Network](https://can.jiscinvolve.org/wp/) at Jisc as a student and volunteer SU
