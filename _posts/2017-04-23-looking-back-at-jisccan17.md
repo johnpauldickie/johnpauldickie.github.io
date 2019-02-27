@@ -30,10 +30,8 @@ experiences of the student as producer ethos.
 *****
 
 ![](https://cdn-images-1.medium.com/max/1200/1*eSmybacr_qvjT5cE826oXg.png){:class="img-fluid"}
-<p><small>Opening keynote at Jisc Change Agents’ Network 2017 with [Jake
-Hibberd](https://twitter.com/HibberdJake), [Tom
-Murray-Richards](https://twitter.com/FXU_Exeter) and [Harry
-Reeve](https://twitter.com/ExeEducation).</small></p>
+
+<small>Opening keynote at Jisc Change Agents’ Network 2017 with [Jake Hibberd](https://twitter.com/HibberdJake), [Tom Murray-Richards](https://twitter.com/FXU_Exeter) and [Harry Reeve](https://twitter.com/ExeEducation).</small>
 
 ### Supporting Effective Partnerships’ was the theme at this year’s [Jisc Change Agents’ Network 2017](http://www.exeter.ac.uk/academic-skills-engagement-team/student-engagement/can2017/), hosted by the University of Exeter.
 
@@ -79,7 +77,7 @@ I found useful while looking at distance learning representation.
 ### The Power of Partnerships; using data collaboratively to enhance the student experience.
 ![](https://cdn-images-1.medium.com/max/1200/1*AV8qh1rJAaRJ3S92cysO3w.png){:class="img-fluid"}
 
-<p><small>[@SandraHowgate](http://twitter.com/SandraHowgate)</small></p>
+<small>[@SandraHowgate](http://twitter.com/SandraHowgate)</small>
 
 As part of one of the sessions in the conference programme, a team from the
 University of Lincoln and University of Lincoln Students’ Union delivered a
