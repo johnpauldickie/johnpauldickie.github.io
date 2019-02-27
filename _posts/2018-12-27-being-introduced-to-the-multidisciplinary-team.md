@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Being introduced to the 'multidisciplinary team'
+description: Timeboxed to build, test and deliver a new thing. Here’s three things I learnt when I joined a multidisciplinary team for the first time.
 tags: [GDS, content design, team]
 image: https://cdn-images-1.medium.com/max/1600/1*qUVSsS97923mtYgdDGYZXA.png
 ---

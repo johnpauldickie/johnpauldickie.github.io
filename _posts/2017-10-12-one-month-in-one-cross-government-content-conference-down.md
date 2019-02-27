@@ -1,6 +1,7 @@
 ---
 layout: post
 title: One month in, one cross-government content conference down
+description: Attended some meetups, juggled training across the country, oh, and organised one big cross-government content conference — it’s only been 37 days since this journey started.
 categories: [Work]
 tags: [GDS, Content design, ConCon]
 image: https://cdn-images-1.medium.com/max/800/1*PxnPGHUQn7NmZLEb8fjvNQ.jpeg

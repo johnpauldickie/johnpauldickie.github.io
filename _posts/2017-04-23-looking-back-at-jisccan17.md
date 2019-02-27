@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Looking back at JiscCAN17
+description: Partnership is very much alive and well in further and higher education.
 tags: [Jisc, Student Engagement]
 image: https://cdn-images-1.medium.com/max/1200/1*AV8qh1rJAaRJ3S92cysO3w.png
 ---
