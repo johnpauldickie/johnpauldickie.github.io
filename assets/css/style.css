@@ -27,7 +27,7 @@ main {
 }
 
 .post-content img {
-	max-width: 80%;
+	/* max-width: 80%; */
 }
 
 /* share-box only used with 'page' and on 'post' templates */
