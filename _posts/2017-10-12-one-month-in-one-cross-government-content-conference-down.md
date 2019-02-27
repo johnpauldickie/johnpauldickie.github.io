@@ -3,6 +3,7 @@ layout: post
 title: One month in, one cross-government content conference down
 categories: [Work]
 tags: [GDS, Content design, ConCon]
+image: https://cdn-images-1.medium.com/max/800/1*PxnPGHUQn7NmZLEb8fjvNQ.jpeg
 ---
 
 <p class="lead">

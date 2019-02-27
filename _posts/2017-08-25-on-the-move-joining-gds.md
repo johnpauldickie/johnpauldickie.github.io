@@ -3,6 +3,7 @@ layout: post
 title: On the move, joining GDS
 categories: [Work]
 tags: [GDS]
+image: https://cdn-images-1.medium.com/max/1200/1*sDffW5pluJKI9hRNN9G7Mg.png
 ---
 
 <p class="lead">After a short time working in higher education student voice, it’s time to move on to my next adventure.
