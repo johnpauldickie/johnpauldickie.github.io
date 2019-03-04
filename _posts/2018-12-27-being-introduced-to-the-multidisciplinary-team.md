@@ -26,7 +26,7 @@ It was quite refreshing working together with policy colleagues in the same plac
 
 During the first sprint, we knew the content in our tool wasn’t the best or even perfect, we knew it could be better.
 
-![](https://cdn-images-1.medium.com/max/1600/1*qUVSsS97923mtYgdDGYZXA.png){:class="img-fluid"}
+![Photo of sticker on a laptop with "doing the hard things to make it simple".](https://cdn-images-1.medium.com/max/1600/1*qUVSsS97923mtYgdDGYZXA.png){:class="img-fluid"}
 
 Knowing something isn’t quite perfect is something I’ve struggled to deal with in the past. It doesn’t get to me as much as it used to but it’s still a bit difficult to look at something you’ve worked on and know it’s not perfect, however, we knew we’d get it in the user research lab, test it and then iterate.
 

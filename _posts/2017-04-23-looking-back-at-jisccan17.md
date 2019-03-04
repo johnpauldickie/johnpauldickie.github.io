@@ -30,7 +30,7 @@ experiences of the student as producer ethos.
 
 *****
 
-![](https://cdn-images-1.medium.com/max/1200/1*eSmybacr_qvjT5cE826oXg.png){:class="img-fluid"}
+![Presentation of academic representation structure displayed](https://cdn-images-1.medium.com/max/1200/1*eSmybacr_qvjT5cE826oXg.png){:class="img-fluid"}
 
 <small>Opening keynote at Jisc Change Agents’ Network 2017 with [Jake Hibberd](https://twitter.com/HibberdJake), [Tom Murray-Richards](https://twitter.com/FXU_Exeter) and [Harry Reeve](https://twitter.com/ExeEducation).</small>
 
@@ -57,7 +57,7 @@ who have responsibility in a particular area for quality matters so staff have
 one student contact to discuss changes to programmes or surveys as well as sit
 on Academic Offences panels for students in other departments.
 
-![](https://cdn-images-1.medium.com/max/1200/1*dZtjMcf0f2GHTtYl_qRmwg.png){:class="img-fluid"}
+![Photo of presentation with two presenters explaining student-staff partnership boards](https://cdn-images-1.medium.com/max/1200/1*dZtjMcf0f2GHTtYl_qRmwg.png){:class="img-fluid"}
 
 Student-staff partnership boards take place within the College of Life and
 Environmental Sciences at the University of Exeter, where the college is based
@@ -76,7 +76,7 @@ I found useful while looking at distance learning representation.
 
 
 ### The Power of Partnerships; using data collaboratively to enhance the student experience.
-![](https://cdn-images-1.medium.com/max/1200/1*AV8qh1rJAaRJ3S92cysO3w.png){:class="img-fluid"}
+![Photo of sketch board created throughout the conference](https://cdn-images-1.medium.com/max/1200/1*AV8qh1rJAaRJ3S92cysO3w.png){:class="img-fluid"}
 
 <small>[@SandraHowgate](http://twitter.com/SandraHowgate)</small>
 
