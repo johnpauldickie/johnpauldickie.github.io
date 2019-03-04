@@ -26,6 +26,10 @@ main {
 	color: #000000;
 }
 
+.post-content img {
+	/* max-width: 80%; */
+}
+
 /* share-box only used with 'page' and on 'post' templates */
 
 .share-box a {

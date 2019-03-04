@@ -16,7 +16,7 @@ permalink: /archive
 
    <li>
     <a href="{{ post.url }}" class="archiveLink">
-      <span class="archiveSpan">{{ post.date | date: "%B %-d, %Y" }}</span> - <span class="archiveTitle">{{ post.title }}</span>
+      <span class="archiveSpan">{{ post.date | date_to_long_string }}</span> - <span class="archiveTitle">{{ post.title }}</span>
     </a>
   </li>
   {% if forloop.last %}</ul>{% endif %}

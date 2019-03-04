@@ -1,15 +1,17 @@
 ---
 layout: post
 title: One month in, one cross-government content conference down
+description: Attended some meetups, juggled training across the country, oh, and organised one big cross-government content conference — it’s only been 37 days since this journey started.
 categories: [Work]
 tags: [GDS, Content design, ConCon]
+image: https://cdn-images-1.medium.com/max/800/1*PxnPGHUQn7NmZLEb8fjvNQ.jpeg
 ---
 
 <p class="lead">
   Attended some meetups, juggled training across the country, oh, and organised one big cross-government content conference — it’s only been 37 days since this journey started.
 </p>
 <!--more-->
-![](https://cdn-images-1.medium.com/max/800/1*PxnPGHUQn7NmZLEb8fjvNQ.jpeg){:class="img-fluid"}
+![Audience in the main hall at ConCon6](https://cdn-images-1.medium.com/max/800/1*PxnPGHUQn7NmZLEb8fjvNQ.jpeg){:class="img-fluid"}
 
 <small>Picture: Laura Billings
 ([Twitter](https://twitter.com/laurabillings/status/918057683873357824))<small>

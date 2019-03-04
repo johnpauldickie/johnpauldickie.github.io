@@ -1,8 +1,10 @@
 ---
 layout: post
 title: On the move, joining GDS
+description: After a short time working in higher education student voice, it’s time to move on to my next adventure.
 categories: [Work]
 tags: [GDS]
+image: https://cdn-images-1.medium.com/max/1200/1*sDffW5pluJKI9hRNN9G7Mg.png
 ---
 
 <p class="lead">After a short time working in higher education student voice, it’s time to move on to my next adventure.
@@ -16,7 +18,7 @@ Bath in May to start a role coordinating [academic
 representation](http://thesubath.com/academicreps) at [The SU
 Bath](http://thesubath.com/) but today is my last day there.
 
-![](https://cdn-images-1.medium.com/max/1200/1*sDffW5pluJKI9hRNN9G7Mg.png){:class="img-fluid"}
+![Screenshot of GOV.UK](https://cdn-images-1.medium.com/max/1200/1*sDffW5pluJKI9hRNN9G7Mg.png){:class="img-fluid"}
 
 On 5 September, I’ll be joining the [Government Digital
 Service](http://gov.uk/gds) (GDS), [who are leading the digital transformation
