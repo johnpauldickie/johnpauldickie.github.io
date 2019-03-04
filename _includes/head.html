@@ -1,4 +1,15 @@
 <head>
+   {% if jekyll.environment == 'production' %}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-19405258-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-19405258-5');
+</script>
+    {% endif %}
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,7 +21,7 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
-
+ <meta name="description" content="{{ site.description }}">
   <link rel="shortcut icon" href="{{ "/assets/img/jp.png" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}" />
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
@@ -22,8 +33,6 @@
 
   {% if page.summary %}
   <meta name="twitter:description" content="{{ page.description }}">
-  {% else %}
-  <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
   {% else %}
   <meta name="twitter:description" content="{{ site.description }}">
   {% endif %}
