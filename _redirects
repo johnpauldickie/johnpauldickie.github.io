@@ -1,0 +1,4 @@
+# Redirect domain aliases to primary domain
+http://www.johnpauld.co.uk/* http://www.johnpauldickie.co.uk/:splat 301!
+http://johnpauld.co.uk/* http://www.johnpauldickie.co.uk/:splat 301!
+http://netlify.johnpauld.co.uk/* http://www.johnpauldickie.co.uk/:splat 301!

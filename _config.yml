@@ -30,3 +30,6 @@ pagination:
 
 twitter_username: johnpauldickie
 title_image: /assets/img/jp.png
+
+include:
+  - _redirects
