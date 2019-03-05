@@ -21,10 +21,15 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
- <meta name="description" content="{{ site.description }}">
-  <link rel="shortcut icon" href="{{ "/assets/img/jp.png" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}" />
-  <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+
+<meta name="description" content="{{ site.description }}">
+<meta name="keywords" content="john-paul dickie, john-paul, john paul, dickie, journalism, digital, london" />
+<meta name="google-site-verification" content="2_MHo6qA2b-piJdIfj-u1qIid8lljlAoV5Kfl4uthd4" />
+<meta name="author" content="John-Paul Dickie">
+
+<link rel="shortcut icon" href="{{ "/assets/img/jp.png" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}" />
+<link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}">
+<link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
   <!-- Twitter cards -->
   <meta name="twitter:site"    content="@johnpauldickie">
@@ -45,5 +50,22 @@
   <meta name="twitter:image" content="{{ site.title_image }}">
   {% endif %}
   <!-- end of Twitter cards -->
+  <!-- Open Graph -->
+
+{% if page.description %}
+<meta prefix="og: http://ogp.me/ns#" property="og:description" content="{{ page.description }}">
+{% else %}
+<meta prefix="og: http://ogp.me/ns#" property="og:description" content="{{ site.description }}">
+{% endif %}
+
+{% if page.image %}
+<meta prefix="og: http://ogp.me/ns#" property="og:image" content="{{ page.image }}">
+{% else %}
+<meta prefix="og: http://ogp.me/ns#" property="og:image" content="{{ site.title_image }}">
+{% endif %}
+
+<meta prefix="og: http://ogp.me/ns#" property="og:url" content="{{ page.url }}">
+<meta prefix="og: http://ogp.me/ns#" property="og:title" content="{{ page.title }}">
+<meta prefix="og: http://ogp.me/ns#" property="og:type" content="website">
 
 </head>
