@@ -1,0 +1,10 @@
+[build]
+  command = "jekyll build"
+  publish = "_site"
+
+[context.production]
+  publish = "_site"
+  command = "JEKYLL_ENV=production jekyll build"
+  
+ [context.deploy-preview]
+  command = "jekyll serve"
