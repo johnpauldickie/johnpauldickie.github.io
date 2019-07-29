@@ -14,14 +14,16 @@ layout: page
   <div class="post-content" itemprop="articleBody">
     {{ content }}
 
-     {% for post in site.related_posts %}
-  {% include related-post.html %}
-{% endfor %}
-    
     {% include sharebox.html %}
 
-   
-    
+    {% for post in site.related_posts %}
+    <h2>Related</h2>
+    <div class="card-deck">
+ {% include related-post.html %}
+ </div>
+ {% endfor %}
+
+
   </div>
 
 

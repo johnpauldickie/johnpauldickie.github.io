@@ -1,8 +1,11 @@
-<li>
-  <a href="{{ post.url | prepend: site.baseurl }}">
-    <div class="post">
-      <div class="post-related-title">{{ post.title }}</div>
-      <p class="post-summary">{{post.content | markdownify | strip_html | truncatewords:30}}<p>
+<div class="card">
+    <img src="{{ page.image }}" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">  <a href="{{ post.url | prepend: site.baseurl }}">
+{{ post.title }}</a></h5>
+      <p class="card-text">{{ page.description }}</p>
     </div>
-  </a>
-</li>
+    <div class="card-footer">
+      <small class="text-muted">{{ page.date | date_to_long_string }}</small>
+    </div>
+  </div>

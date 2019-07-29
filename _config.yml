@@ -31,5 +31,7 @@ pagination:
 twitter_username: johnpauldickie
 title_image: /assets/img/jp.png
 
+related_posts_count: 2
+
 include:
   - _redirects
