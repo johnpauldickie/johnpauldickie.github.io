@@ -1,11 +1,11 @@
 <div class="card">
-    <img src="{{ page.image }}" class="card-img-top" alt="...">
+    <img src="{{ post.image }}" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">  <a href="{{ post.url | prepend: site.baseurl }}">
 {{ post.title }}</a></h5>
-      <p class="card-text">{{ page.description }}</p>
+      <p class="card-text">{{ post.description }}</p>
     </div>
     <div class="card-footer">
-      <small class="text-muted">{{ page.date | date_to_long_string }}</small>
+      <small class="text-muted">{{ post.date | date_to_long_string }}</small>
     </div>
   </div>

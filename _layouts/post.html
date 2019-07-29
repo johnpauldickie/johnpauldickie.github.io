@@ -16,13 +16,12 @@ layout: page
 
     {% include sharebox.html %}
 
-    {% for post in site.related_posts %}
-    <h2>Related</h2>
+    <h5>Related</h5>
     <div class="card-deck">
+    {% for post in site.related_posts %}
  {% include related-post.html %}
- </div>
  {% endfor %}
-
+</div>
 
   </div>
 
