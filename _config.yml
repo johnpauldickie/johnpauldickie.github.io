@@ -16,7 +16,7 @@ plugins:
   - jemoji
   - jekyll-seo-tag
   - jekyll-paginate-v2
-
+  - jekyll-tfidf-related-posts
 
 # Pagination Settings
 pagination:
@@ -30,6 +30,8 @@ pagination:
 
 twitter_username: johnpauldickie
 title_image: /assets/img/jp.png
+
+related_posts_count: 2
 
 include:
   - _redirects

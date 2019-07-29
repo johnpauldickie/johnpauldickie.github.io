@@ -16,6 +16,13 @@ layout: page
 
     {% include sharebox.html %}
 
+    <h5>Related</h5>
+    <div class="card-deck" style="margin-bottom: 20px;">
+    {% for post in site.related_posts %}
+ {% include related-post.html %}
+ {% endfor %}
+</div>
+
   </div>
 
 
