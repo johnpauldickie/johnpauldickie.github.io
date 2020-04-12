@@ -34,7 +34,7 @@ Google Analytics sets the following cookies.
     <tr>
       <td>_ga</td>
       <td>Counts how many people visit the website by tracking if you’ve visited before</td>
-      <td>1 week</td>
+      <td>2 years</td>
     </tr>
     <tr>
       <td>_gid</td>
