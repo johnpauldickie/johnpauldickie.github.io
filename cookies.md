@@ -34,7 +34,7 @@ Google Analytics sets the following cookies.
     <tr>
       <td>_ga</td>
       <td>Counts how many people visit the website by tracking if you’ve visited before</td>
-      <td>2 years</td>
+      <td>1 week</td>
     </tr>
     <tr>
       <td>_gid</td>
@@ -62,7 +62,11 @@ You may see a banner when you visit asking you to either accept or decline cooki
       <td>Saves your cookie consent settings</td>
       <td>1 month</td>
     </tr>
-
+    <tr>
+      <td>_cfduid</td>
+      <td>A technical cookie, required for the features of Cloudflare.</td>
+      <td>1 month</td>
+    </tr>
   </tbody>
 </table>
 
