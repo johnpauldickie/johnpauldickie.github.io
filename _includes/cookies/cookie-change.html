@@ -1,6 +1,4 @@
-<span id="cookies-exist" style="display: none;">You have enabled cookies on this website. You can <a href="javascript:gaOptout()">delete measurement cookies</a>.</span>
-
-<span id="cookies-essential" style="display: none;">You have chosen not to enable measurement cookies on this website.</span>
+<span id="cookies-exist" style="display: none;">You have enabled cookies on this website. You can <a href="https://tools.google.com/dlpage/gaoptout">opt-out of Google Analytics</a>.</span>
 
 <span id="cookies-none" style="display: none;">You have chosen not to enable cookies on this website.</span>
 
@@ -28,8 +26,8 @@
       if(readCookie('cookie-policy')=='true') {
           document.getElementById("cookies-exist").style.display="inline";
       }
-      else if(readCookie('cookie-policy')=='false') {
-        document.getElementById("cookies-essential").style.display="inline";
+      else (readCookie('cookie-policy')=='false') {
+        document.getElementById("cookies-none").style.display="inline";
       }
       else {
         document.getElementById("cookies-none").style.display="inline";

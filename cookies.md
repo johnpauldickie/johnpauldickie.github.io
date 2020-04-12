@@ -44,6 +44,8 @@ Google Analytics sets the following cookies.
   </tbody>
 </table>
 
+You can [opt out of Google Analytics](https://tools.google.com/dlpage/gaoptout).
+
 ## Strictly necessary cookies
 
 You may see a banner when you visit asking you to either accept or decline cookies. Once you've chosen, a cookie will be set so your device knows you've seen the banner and not to show it again as well as save your cookie setting.
