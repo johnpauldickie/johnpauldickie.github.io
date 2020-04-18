@@ -15,9 +15,15 @@ permalink: /archive
    {% endif %}
 
    <li>
-    <a href="{{ post.url }}" class="archiveLink">
-      <span class="archiveSpan">{{ post.date | date_to_long_string }}</span> - <span class="archiveTitle">{{ post.title }}</span>
-    </a>
+     {% if post.external_url %}
+     <a href="{{ post.external_url }}" class="archiveLink">
+       <span class="archiveSpan">{{ post.date | date_to_long_string }}</span> - <span class="archiveTitle">{{ post.title }} <i class="fas fa-external-link-alt"></i></span>
+     </a>
+ {% else %}
+ <a href="{{ post.url }}" class="archiveLink">
+   <span class="archiveSpan">{{ post.date | date_to_long_string }}</span> - <span class="archiveTitle">{{ post.title }}</span>
+ </a>
+ {% endif %}
   </li>
   {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
