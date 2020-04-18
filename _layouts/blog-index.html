@@ -2,7 +2,6 @@
 layout: skeleton
 ---
 
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 <div class="jumbotron">
   <div class="container">
   <h1 class="display-4" class="post-headline" itemprop="name headline">{{ page.title }}</h1>
@@ -25,27 +24,14 @@ layout: skeleton
     <main role="main">
       <div class="row">
         <div class="col-md-8">
-            <div class="post-content" itemprop="articleBody">
-              {{ content }}
-
-              {% include sharebox.html %}
-
-              <h5>Related</h5>
-              <div class="card-deck" style="margin-bottom: 20px;">
-              {% for post in site.related_posts %}
-           {% include related-post.html %}
-           {% endfor %}
-          </div>
-
-            </div>
-
-
-
+      {{ content }}
+</div>
+<div class="col-md-4">
+<p class="lead"><i class="fas fa-rss-square fa-fw"></i> Get updates to this blog through <a href="/feed.xml">RSS</a>.</p>
 </div>
 </div>
     </main>
 
 <hr class="my-1">
 </div>
-</article>
 {% include footer.html %}

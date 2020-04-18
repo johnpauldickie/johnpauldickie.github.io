@@ -7,9 +7,6 @@ tags: [GDS]
 image: https://cdn-images-1.medium.com/max/1200/1*sDffW5pluJKI9hRNN9G7Mg.png
 ---
 
-<p class="lead">After a short time working in higher education student voice, it’s time to move on to my next adventure.
-</p>
-<!--more-->
 It’s been quite a whirlwind 12 months; [graduating from my
 degree](https://twitter.com/johnpauldickie/status/773568328497528832) at the
 [University of Lincoln](http://lincoln.ac.uk/), spending a year as a full time

@@ -6,8 +6,6 @@ tags: [GDS, content design, team]
 image: https://cdn-images-1.medium.com/max/1600/1*qUVSsS97923mtYgdDGYZXA.png
 ---
 
-<p class="lead">Timeboxed to build, test and deliver a new thing. Here’s three things I learnt when I joined a multidisciplinary team for the first time.</p>
-<!--more-->
 A team was assembled of policy experts, communications colleagues along with your standard array of digital roles; developers, content designers, user researchers, performance analysts, designers, product and delivery managers.
 
 This was something quite new to me. I’ve worked at [GDS](https://www.gov.uk/gds) for well over a year now but I’ve only been a junior content designer for about five months and worked in team made up of mainly content designers.

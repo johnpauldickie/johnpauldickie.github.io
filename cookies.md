@@ -3,12 +3,8 @@ layout: page
 title: Cookies
 permalink: /cookies
 date: 2020-04-12
+sitemap: false
 ---
-<p class="post-meta">
-  <time datetime="{{ page.date | date_to_long_string }}" itemprop="datePublished">
-    {{ page.date | date_to_long_string }}
-  </time>
-</p>
 
 Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. This information is used to track visitor use of the website and to compile statistical reports on website activity.
 

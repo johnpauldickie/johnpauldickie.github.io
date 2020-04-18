@@ -5,10 +5,6 @@ description: Partnership is very much alive and well in further and higher educa
 tags: [Jisc, Student Engagement]
 image: https://cdn-images-1.medium.com/max/1200/1*AV8qh1rJAaRJ3S92cysO3w.png
 ---
-
-<p class="lead">Partnership is very much alive and well in further and higher education.</p>
-<!--more-->
-
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/sFbDzA55ROI" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
