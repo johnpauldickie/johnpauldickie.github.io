@@ -6,13 +6,23 @@ pagination:
 ---
 
 <p class="lead">Get updates to this blog through <a href="/feed.xml">RSS</a>.</p>
+
 {% for page in paginator.posts %}
 <ul class="list-unstyled">
    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+     {% if page.external_url %}
      <header class="post-header">
-       <h3 itemprop="name headline"><a href="{{ page.url }}">{{ page.title | escape }}</a></h3>
+       <h3 itemprop="name headline"><a href="{{ page.external_url }}">{{ page.title | escape }} <i class="fas fa-external-link-alt"></i></a></h3>
      </header>
      <p><time class="date" datetime="{{ page.date | date_to_long_string }}">{{ page.date | date_to_long_string }}</time></p>
+ {% else %}
+ <header class="post-header">
+   <h3 itemprop="name headline"><a href="{{ page.url }}">{{ page.title | escape }}</a></h3>
+ </header>
+ <p><time class="date" datetime="{{ page.date | date_to_long_string }}">{{ page.date | date_to_long_string }}</time></p>
+ {% endif %}
+
    </article>
    </ul>
  {% endfor %}

@@ -14,7 +14,11 @@ title: Home
 				<ul class="list-unstyled">
 {% for post in site.posts limit:3 %}
 
+ {% if post.external_url %}
+ <li><p class="lead"><a href="{{ post.external_url }}">{{ post.title }} <i class="fas fa-external-link-alt"></i></a> <small class="text-muted"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date_to_long_string }}</small></p></li>
+ {% else %}
 <li><p class="lead"><a href="{{ post.url }}">{{ post.title }}</a> <small class="text-muted"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date_to_long_string }}</small></p></li>
+ {% endif %}
 
  {% endfor %}</ul>
 <p><a href="/blog" class="btn btn btn-outline-secondary btn-sm">Read more posts</a></p>
