@@ -1,11 +1,25 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+---
+layout: skeleton
+---
 
-  {% include head.html %}
+<div class="jumbotron">
+  <div class="container">
+  <h1 class="display-4" class="post-headline" itemprop="name headline">{{ page.title }}</h1>
+  {% if page.summary %}
+  <p class="lead">{{ page.heading_description }}</p>
+  {% else %}
+  <p class="lead">{{ page.description }}</p>
+  {% endif %}
 
-  <body>
-    {% include cookies/cookie-consent.html %}
-    {% include header.html %}
+  <p class="post-meta">
+    <time datetime="{{ page.date | date_to_long_string }}" itemprop="datePublished">
+      {{ page.date | date_to_long_string }}
+    </time>
+  </p>
+</div>
+</div>
+
+
 <div class="container">
     <main role="main">
       <div class="row">
@@ -18,6 +32,3 @@
 <hr class="my-1">
 </div>
 {% include footer.html %}
-  </body>
-
-</html>

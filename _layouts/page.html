@@ -1,32 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
-  {% include head.html %}
-
-  <body>
-    {% include cookies/cookie-consent.html %}
-    {% include header.html %}
-
-<div class="container">
-
-    <main role="main">
-      <div class="row">
-          <div class="col-md-8">
-            <h1 class="post-headline" itemprop="name headline">{{ page.title }}</h1>
-
       {{ content }}
-</div>
-
-</div>
-    </main>
-
-    <hr class="my-1">
-    </div>
-    {% include footer.html %}
-</body>
-
-</html>

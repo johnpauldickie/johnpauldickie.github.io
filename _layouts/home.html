@@ -1,23 +1,9 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+---
+layout: skeleton
+---
 
-  {% include head.html %}
-
-  <body>
-    {% include cookies/cookie-consent.html %}
-    {% include header.html %}
-<div class="container">
-    <main role="main">
-      <div class="row">
-        <div class="col-md-8">
-      {{ content }}
-</div>
-</div>
-    </main>
+{{ content }}
 
 <hr class="my-1">
 </div>
 {% include footer.html %}
-  </body>
-
-</html>
