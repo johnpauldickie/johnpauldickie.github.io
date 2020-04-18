@@ -18,7 +18,7 @@ pagination:
      <p><time class="date" datetime="{{ page.date | date_to_long_string }}">{{ page.date | date_to_long_string }}</time></p>
  {% else %}
  <header class="post-header">
-   <h3 itemprop="name headline"><a href="{{ post.url }}">{{ page.title | escape }}</a></h3>
+   <h3 itemprop="name headline"><a href="{{ page.url }}">{{ page.title | escape }}</a></h3>
  </header>
  <p><time class="date" datetime="{{ page.date | date_to_long_string }}">{{ page.date | date_to_long_string }}</time></p>
  {% endif %}
