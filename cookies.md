@@ -40,7 +40,8 @@ Google Analytics sets the following cookies.
   </tbody>
 </table>
 
-You can [opt out of Google Analytics](https://tools.google.com/dlpage/gaoptout).
+### Set your preference for measurement cookies
+{% include cookies/cookie-change.html %}
 
 ## Strictly necessary cookies
 
@@ -67,7 +68,3 @@ You may see a banner when you visit asking you to either accept or decline cooki
     </tr>
   </tbody>
 </table>
-
-## Your cookie choices
-
-{% include cookies/cookie-change.html %}
