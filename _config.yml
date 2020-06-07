@@ -6,6 +6,9 @@ description: "Hi, I'm John-Paul, a user-centred content designer, making content
 permalink: /blog/:title/
 lang: en_GB
 
+google-analytics-domain: ".www.johnpauldickie.co.uk"
+google-analytics: "UA-19405258-5" # GA ID code
+
 show_excerpts: true
 excerpt_separator: <!--more-->
 

@@ -1,32 +1,42 @@
-<span id="cookies-exist" style="display: none;">You have enabled cookies on this website. You can <a href="https://tools.google.com/dlpage/gaoptout">opt-out of Google Analytics</a>.</span>
 
-<span id="cookies-none" style="display: none;">You have chosen not to enable measurement cookies on this website.</span>
+<form>
+    <div class="form-group form-check">
+    <input class="form-check-input" type="radio" id="enable-measurement-cookies" name="measurement-cookies" value="on">
+    <label class="form-check-label" for="enable-measurement-cookies">Use cookies that measure my website use</label>
+  </div>
+<div class="form-group form-check">
+    <input class="form-check-input"  type="radio" id="disable-measurement-cookies" name="measurement-cookies" value="off">
+    <label class="form-check-label" for="disable-measurement-cookies">Do not use cookies that measure my website use</label>
+  </div>
+  </form>
 
 <noscript>
-<p>Javascript is used to set most of the cookies on this website. Unfortunately Javascript is not running on your browser, so you cannot change your settings. You can try:</p>
+<p>We use JavaScript to set our cookies. Unfortunately Javascript is not running on your browser, so you cannot change your settings. You can try:</p>
 
 <ul>
 <li>reloading the page</li>
-<li>turning on Javascript in your browser</li>
+<li>turning on JavaScript in your browser</li>
 </ul>
 </noscript>
 
 <script>
-  function readCookie(name) {
-    var nameEQ = name + "=";
-    var ca = document.cookie.split(';');
-    for(var i=0;i < ca.length;i++) {
-        var c = ca[i];
-        while (c.charAt(0)==' ') c = c.substring(1,c.length);
-        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-    }
-    return null;
+if (getCookie("cookie-policy") == "true") {
+  document.getElementById("enable-measurement-cookies").checked = true;
+} else {
+  document.getElementById("disable-measurement-cookies").checked = true;
 }
 
-      if(readCookie('cookie-policy')=='true') {
-          document.getElementById("cookies-exist").style.display="inline";
-      }
-      else {
-        document.getElementById("cookies-none").style.display="inline";
-      }
+
+document
+  .getElementById("enable-measurement-cookies")
+  .addEventListener("click", function () {
+    setCookie("cookie-policy", "true", 31);
+  });
+
+document
+  .getElementById("disable-measurement-cookies")
+  .addEventListener("click", function () {
+    setCookie("cookie-policy", "false", 31);
+    stopGA("{{ site.google-analytics }}", "{{ site.google-analytics-domain }}");
+  });
 </script>
